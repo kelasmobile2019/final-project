@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.ac.upnjatim">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HasilKuis2"></activity>
+        <activity
+            android:name=".quiz_gmbr_4"
+            android:parentActivityName=".quiz_gmbr_3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiz_gmbr_3"
+            android:parentActivityName=".quiz_gmbr_2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiz_gmbr_2"
+            android:parentActivityName=".quiz_gmbr_1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiz_gmbr_1"
+            android:parentActivityName=".quiz_gambar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiz_gambar"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailDeveloper1"
+            android:parentActivityName=".TentangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailDeveloper"
+            android:parentActivityName=".TentangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TentangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".KuisActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HasilKuis"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
