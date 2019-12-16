@@ -1,4 +1,4 @@
-# UPN-QuiZ [User Manual]
+# UPN-QuiZ Final Project [User Manual]
 
 ### Team Dev
 
