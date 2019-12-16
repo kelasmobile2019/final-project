@@ -1,8 +1,3 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/kelasmobile2019/final-project/kelompok-6)
-[![GitHub contributors](https://img.shields.io/github/contributors/kelasmobile2019/final-project.svg)](https://GitHub.com/kelasmobile2019/final-project/graphs/contributors/)
-
 # UPN-QuiZ [User Manual]
 
 ### Team Dev
@@ -11,7 +6,7 @@
 - Moh Fathur Rohman    (17081010048) <a href="https://github.com/rahmanboy987/">Profile Github</a>
 
 ### Deskripsi umum
-UPN QuiZ, Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
+UPN QuiZ, Aplikasi ini merupakan sebuah game kuis tanya-jawab serta tebak gambar yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
 
 Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 lainnya merupakan pertanyaan programming.
 
