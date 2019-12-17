@@ -25,7 +25,7 @@ Android OS minimal 5.0 Lolipop (API 21)
 ![Image Home](https://github.com/idhamozi/Mobile_Apps/blob/master/ss/WhatsApp%20Image%202019-10-15%20at%2018.51.20%20(3).jpeg)
 7. Untuk melihat informasi maka klik icon Informasi dan akan muncul halaman seperti dibawah ini
 ![Image Informasi](https://github.com/idhamozi/Mobile_Apps/blob/master/ss/WhatsApp%20Image%202019-10-15%20at%2018.51.20%20(2).jpeg)
-8. Melihat lebih detail dari Informasi camping tersebut maka pilih salah satu dari list yg tersedia, dan terdapat button untuk melihat maps lokasi camping (View Map)
+8. Melihat lebih detail dari Informasi camping tersebut maka pilih salah satu dari list yg tersedia, dan terdapat button untuk melihat maps lokasi camping (View Map).
 ![Image Detail](https://github.com/idhamozi/Ngamping/blob/master/ss/WhatsApp%20Image%202019-12-17%20at%2020.01.29.jpeg)
 9. Tampilan maps lokasi camping bila di buka
 ![Image Maps](https://github.com/idhamozi/Ngamping/blob/master/ss/WhatsApp%20Image%202019-12-17%20at%2020.01.29%20(1).jpeg)
