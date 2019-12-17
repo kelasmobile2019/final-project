@@ -23,27 +23,27 @@ Android OS minimal 5.0 Lolipop (API 21)
 
 4. Tampilan Utama dan terdapat 3 Menu dan di bawah ini adalah tampilan Menu Makanan
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43087587/71016320-95452800-2127-11ea-8a93-aaa4b650c84b.jpg height="390px" width="200px">
-                                                                                                                                             
+  <img src="https://user-images.githubusercontent.com/43087587/71016320-95452800-2127-11ea-8a93-aaa4b650c84b.jpg" height="390px" width="200px">
+</p>                                                                                                                                        
 5. Tampilan Menu Minuman
 <p align="center">                                                                                                                 
-  <img src="https://user-images.githubusercontent.com/43087587/71016322-95452800-2127-11ea-89a4-23787e3d1e04.jpg height="390px" width="200px">                                                                                                                            </p>                                                                                                                      
+  <img src="https://user-images.githubusercontent.com/43087587/71016322-95452800-2127-11ea-89a4-23787e3d1e04.jpg" height="390px" width="200px">                                                                                                                            </p>                                                                                                                      
                                                                                                                                          
 6. Tampilan Menu Snack
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43087587/71016323-95ddbe80-2127-11ea-854c-19730a54e22e.jpg height="390px" width="200px">
+  <img src="https://user-images.githubusercontent.com/43087587/71016323-95ddbe80-2127-11ea-854c-19730a54e22e.jpg" height="390px" width="200px">
 </p>       
                                                                                                                                          
 7. Tampilan detail salah satu dari menu Snack
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43087587/71016319-95452800-2127-11ea-85be-120b9ac84f62.jpg height="390px" width="200px">
+  <img src="https://user-images.githubusercontent.com/43087587/71016319-95452800-2127-11ea-85be-120b9ac84f62.jpg" height="390px" width="200px">
 </p>
                                                                                                                                              
 8.  Tampilan detail dari salah satu menu Minuman
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43087587/71016318-94ac9180-2127-11ea-9ba9-8716ece239ca.jpg height="390px" width="200px">                                                                                                                            </p>
+  <img src="https://user-images.githubusercontent.com/43087587/71016318-94ac9180-2127-11ea-9ba9-8716ece239ca.jpg" height="390px" width="200px">                                                                                                                            </p>
                                                                                                                                          
 9. Tampilan detail dari salah satu menu Makanan
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43087587/71016317-94ac9180-2127-11ea-961c-f2e77863c652.jpg height="390px" width="200px">
+<img src="https://user-images.githubusercontent.com/43087587/71016317-94ac9180-2127-11ea-961c-f2e77863c652.jpg" height="390px" width="200px">
 </p>
