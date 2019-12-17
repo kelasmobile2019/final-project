@@ -2,7 +2,7 @@
 FP Aplikasi Mobile kelompok 4 adalah Aplikasi Menu Restaurant.
 
 ## Anggota Kelompok 2
-1. Firdaus Andry Saputra [Github Profil]https://github.com/andresaputra74
+1. Firdaus Andry Saputra <a href="https://github.com/andresaputra74">Profile Github</a>
 2. Hilda Dea Amanda
 
 ### Tentang Aplikasi Menu Restaurant
