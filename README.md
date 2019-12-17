@@ -1,9 +1,9 @@
 Restaurant [ User Manual ]
 
-#FINAL PROJECT APLIKASI MOBILE
+# FINAL PROJECT APLIKASI MOBILE
 FP Aplikasi Mobile kelompok 4 adalah Aplikasi Menu Restaurant.
 
-##Anggota Kelompok 2
+## Anggota Kelompok 2
 1. Firdaus Andry Saputra [Github Profil]https://github.com/andresaputra74
 2. Hilda Dea Amanda
 
@@ -14,9 +14,9 @@ Menu Restaurant merupakan aplikasi untuk meberikan informasi menu pada suatu res
 Android OS minimal 5.0 Lolipop (API 21)
 
 ## Cara Penggunaan
-1.Download terlebih dahulu aplikasinya
-2. Setelah Download buka Aplikasi Tersebut
-3. Tampilan Splash Screen selama beberapa detik
+1.Download terlebih dahulu aplikasinya<br>
+2. Setelah Download buka Aplikasi Tersebut<br>
+3. Tampilan Splash Screen selama beberapa detik<br>
 ![SplashScreen](https://user-images.githubusercontent.com/43087587/71016325-95ddbe80-2127-11ea-96d1-8d9ac6d01180.jpg)<br>
 4. Tampilan Utama dan terdapat 3 Menu dan di bawah ini adalah tampilan Menu Makanan<br>
 ![Menu Makanan](https://user-images.githubusercontent.com/43087587/71016320-95452800-2127-11ea-8a93-aaa4b650c84b.jpg)<br>
