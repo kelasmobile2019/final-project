@@ -6,7 +6,7 @@ Diatas merupakan FP dari Kelompok 2 yang merupakan pengembangan lanjut dari apli
 2. Fajar Andhika Putra [Github Profile](https://github.com/FjDhika)
 
 ## Sekilas Informasi Tentang Ngamping
-Ngamping merupakan sebuah aplikasi yang bertujuan untuk memberikan informasi tentang ground camping. Informasi yang diberikan berupa lokasi, harga tiket dan deskripsi singkat. Untuk sementara ini data ground camping hanya tersedia di daerah seputar Jawa Timur.
+Ngamping merupakan sebuah aplikasi yang bertujuan untuk memberikan informasi tentang ground camping. Informasi yang diberikan berupa lokasi, harga tiket dan deskripsi singkat, serta maps lokasi dimana hal ini menggunakan API Google Maps. Untuk sementara ini data ground camping hanya tersedia di daerah seputar Jawa Timur.
 
 ## System Requirement
 Android OS minimal 5.0 Lolipop (API 21)
@@ -14,7 +14,7 @@ Android OS minimal 5.0 Lolipop (API 21)
 # User Manual/Panduan Pengguna
 1. Install terlebih dahulu aplikasi dengan nama Ngamping_v2.apk [Download Disini](https://github.com/kelasmobile2019/final-project/blob/kelompok-2/apk/Ngamping_v2.apk)
 2. Buka Aplikasi Ngamping dengan icon gunung yang bertulis Ngamping
-![Image Home HP](https://github.com/idhamozi/Mobile_Apps/blob/master/ss/WhatsApp%20Image%202019-10-21%20at%2017.23.28.jpeg)
+![Image Home HP](https://github.com/idhamozi/Ngamping/blob/master/ss/WhatsApp%20Image%202019-12-17%20at%2021.36.38.jpeg)
 3. Tunggu beberapa detik hingga splash screen sampai hilang
 ![Image Splashscreen](https://github.com/idhamozi/Mobile_Apps/blob/master/ss/WhatsApp%20Image%202019-10-15%20at%2018.51.20%20(6).jpeg)
 4. Lakukan Login dengan Username : admin & Password : admin
