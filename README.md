@@ -1,47 +1,64 @@
-# final-project
-Berikut adalah kompilasi dari tugas tugas yang telah dikerjakan oleh Mahasiswa Kelas Mobile 2019. Untuk setiap File Kelompok bisa diperiksa disetiap branch kelompok. Bagi kelompok yang belum bisa upload silahkan kontak komting Aplikasi Mobile
-<br>
+## Khobar
 
-Kelompok 1. (keluar)
-- Vinza Hedi Satria (1634010072)
-- Moch. Fikri Hidayat (1634010060)
-<br>
+Aplikasi penyedia berita dari News API (newsapi.org)
 
-Kelompok 2.
-- Mohammad Idham Fachrurrozi (17081010044)<br>
-- Fajar Andhika P (17081010054)
-<br>
+### User Manual
 
-Kelompok 3.
-- Dicky Giancini (17081010062)<br>
-- Nyoman Rahadi S. (17081010086)
-<br>
+##### 1. Membuka Aplikasi 
 
-Kelompok 4.
-- Hilda dea (17081010011)<br>
-- Firdaus andry saputra (17081010074)
-<br>
+<img src="img/icon_app.jpeg" width="265" height="500">
 
-Kelompok 5.
-- Sunu Ilham P. (17081010045)<br>
-- Amir M. Hakim (17071010051)
-<br>
+Launcher dari aplikasi Khobar bergambar ilustrasi koran dengan nama Khobar. User dapat menekan launcher tersebut untuk membuka aplikasi.
 
-Kelompok 6.
-- Kholilul Rachman NM (17081010055)<br>
-- M Fathur Rohman (17081010048)
-<br>
+##### 2. Membuka Aplikasi 
 
-Kelompok 7.
-- Rheza rizqi ahmadi 1634010086<br>
-- rayhan aulia 1634010089
-<br>
+<img src="img/splash_screen.jpeg" width="265" height="500">
 
-Kelompok 8.
-- Askara Raditya (17081010070)<br>
-- Barep J.A.I. Nahusuly (17081010095)
-<br>
+Setelah aplikasi terbuka user akan menunggu loading selama 2 detik sembari melihat logo dari aplikasi.
 
-Kelompok 9.
-- shoima fitra kumala (17081010022)<br>
-- annisa fadhilasari (17081010069)
+
+##### 3. Tampilan Utama
+ 
+<img src="img/home.jpeg" width="265" height="500">
+
+Setelah loading selesai maka user akan diarahkan ke tampilan utama dari aplikasi, disini user akan melihat daftar berita yang ditulis. Ada 2 jenis daftar berita, yakni daftar berita utama (1) dan daftar berita harian (2). Daftar berita utama dapat digulung secara horizontal dan daftar berita harian dapat digulung secara vertikal. User dapat menekan pada salah satu berita untuk melihat deskripsi dari berita tersebut.
+
+
+##### 4. Tampilan Deskripsi Berita (Headline News)
+ 
+<img src="img/headline_news_description_1.jpeg" width="265" height="500">
+
+Setelah user memutuskan untuk memilih dan menekan pada salah satu jenis berita, maka deskripsi dari berita yang dipilih tersebut akan ditampilkan pada halaman ini. User dapat menggulung halaman untuk melihat seluruh deskripsi berita.
+
+
+##### 5. Tampilan Deskripsi Lengkap Berita (Headline News)
+ 
+<img src="img/headline_news_description_2.jpeg" width="265" height="500">
+
+Di sini user dapat melihat judul secara lengkap, tanggal ditulisnya berita, deskripsi dan konten dari berita. Di paling bawah halaman, user akan menemukan sebuah tombol “view article” yang apabila ditekan akan mengarahkan user pada halaman berita (website), tujuannya agar user dapat membaca isi berita secara lengkap.
+
+
+##### 6. Tampilan Deskripsi Berita (Regular News)
+ 
+<img src="img/regular_news_description_1.jpeg" width="265" height="500">
+
+Setelah user memutuskan untuk memilih dan menekan pada salah satu jenis berita, maka deskripsi dari berita yang dipilih tersebut akan ditampilkan pada halaman ini. User dapat menggulung halaman untuk melihat seluruh deskripsi berita.
+
+
+##### 7. Tampilan Deskripsi Lengkap Berita (Regular News)
+ 
+<img src="img/regular_news_description_2.jpeg" width="265" height="500">
+
+Di sini user dapat melihat judul secara lengkap, tanggal ditulisnya berita, deskripsi dan konten dari berita. Di paling bawah halaman, user akan menemukan sebuah tombol “view article” yang apabila ditekan akan mengarahkan user pada halaman berita (website), tujuannya agar user dapat membaca isi berita secara lengkap.
+
+##### UPDATE PROJECT
+
+##### 8. Tampilan Halaman Utama Aplikasi Setelah Update
+
+<img src="img/updated.png" width="265" height="500">
+
+Gambar 8 adalah tampilan utama aplikasi setelah update dari tugas saat Ujian Tengah Semester (UTS) di mana terdapat fitur baru yaitu online-offline. Pada Gambar 8 terdapat tombol untuk melakukan penyegaran atau refresh berita untuk menerima berita terbaru.
+
+Pembaruan dengan menggunakan mekanisme offline-online ini membuat user lebih menghemat data yang digunakan karena data akan diunduh terlebih dahulu kemudian disimpan pada database lokal. Tidak hanya itu, pengaksesan berita juga menjadi lebih cepat karena tidak perlu mengunduh data setiap kali berita dipilih.
+
+Pengimplementasian offline-online ini juga sangat membantu user, apabila user tidak memiliki koneksi internet maka user akan tetap dapat mengakses berita yang telah tersimpan di database lokal.
