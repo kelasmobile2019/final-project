@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VapingInfo</string>
+    <string name="vape_name">Nama Device</string>
+    <string name="vape_detail">Detail Vape</string>
+    <string name="my_profile">My Profile</string>
+    <string name="list_vape">List Vape</string>
+    <string name="dicky_giancini">Dicky Giancini</string>
+    <string name="dicky_giancini_123_gmail_com">dicky.giancini.123@gmail.com</string>
+    <string name="nyoman_rahadi_sasmita">Nyoman Rahadi Sasmita</string>
+</resources>
