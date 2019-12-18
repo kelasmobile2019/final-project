@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="150dp"
+        android:text="Nama : "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="150dp"
+        android:text="Username : "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginRight="150dp"
+        android:text="Email : "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="150dp"
+        android:text="Password : "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="150dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginRight="150dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginRight="150dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginRight="150dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="100dp"
+        android:layout_height="52dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="150dp"
+        android:backgroundTint="#16CA1E"
+        android:text="Daftar"
+        android:textColor="#ffff"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="318dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="100dp"
+        android:layout_height="52dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginRight="10dp"
+        android:text="Batal"
+        tools:layout_editor_absoluteX="230dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+</RelativeLayout>

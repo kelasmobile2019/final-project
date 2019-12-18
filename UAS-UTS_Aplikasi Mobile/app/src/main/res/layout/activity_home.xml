@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Home">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="230dp"
+        android:layout_height="244dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="60dp"
+        app:srcCompat="@drawable/mobile_logo" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="60dp"
+        android:backgroundTint="#00FCF8F8"
+        android:tint="#00F8F2F2"
+        app:srcCompat="@drawable/print_m" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="60dp"
+        android:backgroundTint="#00F1E7E7"
+        app:srcCompat="@drawable/person_m" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginRight="60dp"
+        android:backgroundTint="#00FDFDFD"
+        app:srcCompat="@drawable/logout_m" />
+
+
+</RelativeLayout>
