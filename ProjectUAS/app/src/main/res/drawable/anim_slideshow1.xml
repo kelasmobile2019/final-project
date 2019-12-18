@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/gemballa" />
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/gemballa1" />
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/gemballa2" />
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/gemballa3" />
+
+
+</animation-list>

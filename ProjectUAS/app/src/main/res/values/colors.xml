@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b444b</color>
+    <color name="colorPrimaryDark">#232b2b</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Blue">#0000ff</color>
+    <color name="Purple">#7f7fff</color>
+    <color name="White">#ffffff</color>
+</resources>

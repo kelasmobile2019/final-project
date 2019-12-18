@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/singer" />
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/singer1" />
+
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/singer2" />
+    <item
+        android:duration="3000"
+        android:drawable="@drawable/singer3" />
+
+</animation-list>

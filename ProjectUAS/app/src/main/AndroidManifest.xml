@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.example.projectuas">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:logo="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="android.example.projectuas.Activity_Sixth"></activity>
+        <activity android:name="android.example.projectuas.Activity_Fifth" />
+        <activity android:name="android.example.projectuas.Activity_fourth" />
+        <activity android:name="android.example.projectuas.activity_third" />
+
+        <activity android:name="android.example.projectuas.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="android.example.projectuas.SecondActivity"
+            android:label="@string/activity2_name"
+            android:parentActivityName="android.example.projectuas.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.android.example.projectuts" />
+        </activity>
+        <activity android:name="android.example.projectuas.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.OTHER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
