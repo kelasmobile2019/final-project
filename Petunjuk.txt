@@ -1,0 +1,18 @@
+Nama kelompok :
+
+Heldian Lintang P 1634010054
+(Khusus lintang mengikuti kelompok kami, karena jumlah mahasiswa sudah pas. untuk kating angkatan 14 tidak
+mengikuti kelas mobile)
+
+Rheza Rhizqi 1634010086
+Rayhan Aulia 1634010089
+
+
+Dalam format :
+- word maka akan mnunjukan user manual
+- PPT menunjukkan ide awal dan user awal
+
+Link UTS Mobile :
+https://github.com/rayhanan/rayhanan1.git
+Mohon maaf karena kami salah dalam menggabungkan project kami dengan yang lain dikarenakan
+kami masih awam dengan github, serta belum mengetahui komting membuat github untuk veri kelas
